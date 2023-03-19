@@ -1,0 +1,17 @@
+body {
+    background: rgb(57,109,193);
+    background: linear-gradient(90deg, rgba(57,109,193,1) 0%, rgba(65,180,205,1) 100%);
+}
+
+.nav {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-family: 'Caveat', cursive;
+}
+
+.nav-btn {
+    height: 25px;
+}
