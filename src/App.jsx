@@ -5,9 +5,13 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="nav">
-      <h1>Elias Palmer</h1>
-      <h1 className="nav-btn"></h1>
+    <div>
+      <div className="nav">
+        <h1>Elias Palmer</h1>
+      </div>
+      <div className="page-info">
+        <h2>This page shows some cool CSS</h2>
+      </div>
     </div>
   )
 }

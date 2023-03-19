@@ -6,12 +6,13 @@ body {
 .nav {
     color: #fff;
     display: flex;
-    justify-content: space-between;
     align-items: center;
     padding: 10px;
     font-family: 'Caveat', cursive;
 }
 
-.nav-btn {
-    height: 25px;
+.page-info {
+    color: #fff;
+    display: flex;
+    justify-content: center;
 }
