@@ -1,6 +1,6 @@
 body {
     background: rgb(57,109,193);
-    background: linear-gradient(90deg, rgba(57,109,193,1) 0%, rgba(65,180,205,1) 100%);
+    background: linear-gradient(90deg, rgb(26, 48, 85) 0%, rgba(65,180,205,1) 100%);
 }
 
 .nav {
@@ -12,7 +12,6 @@ body {
 }
 
 .profile {
-    justify-content: center;
     width: 350px;
     border-radius: 175px;
 }
@@ -21,4 +20,12 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 22px;
+}
+
+.title {
+    font-family: 'Caveat', cursive;
+    margin-top: 35px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
 }

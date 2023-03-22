@@ -13,6 +13,9 @@ function App() {
       <div className='profile-img'>
         <img src={profile} className="profile"/>
       </div>
+      <div className='title'>
+        <h1>Welcome to my Portfolio!!</h1>
+      </div>
     </div>
   )
 }
