@@ -11,8 +11,14 @@ body {
     font-family: 'Caveat', cursive;
 }
 
-.page-info {
-    color: #fff;
+.profile {
+    justify-content: center;
+    width: 350px;
+    border-radius: 175px;
+}
+
+.profile-img {
     display: flex;
     justify-content: center;
+    margin-top: 22px;
 }
