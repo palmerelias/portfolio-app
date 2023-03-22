@@ -10,8 +10,8 @@ function App() {
         <h1>Elias Palmer</h1>
       </div>
       <div className="page-info">
-        <h2>This page shows some cool CSS</h2>
       </div>
+
     </div>
   )
 }
