@@ -10,12 +10,11 @@ function App() {
       <div className="nav">
         <h1>Elias Palmer</h1>
       </div>
-      <div className='profile-img'>
-        <img src={profile} className="profile"/>
+      <div className='profile-card'>
+        <img src={profile} className="profile-img"/>
+        <h1 className='title'>Welcome to my Portfolio!!</h1>
       </div>
-      <div className='title'>
-        <h1>Welcome to my Portfolio!!</h1>
-      </div>
+      
     </div>
   )
 }

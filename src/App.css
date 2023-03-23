@@ -11,20 +11,26 @@ body {
     font-family: 'Caveat', cursive;
 }
 
-.profile {
+.profile-img {
     width: 350px;
-    border-radius: 175px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
 }
 
-.profile-img {
-    display: flex;
-    justify-content: center;
-    margin-top: 22px;
+.profile-card {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 700px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 2.5px;
+    border-bottom-right-radius: 2.5px;
+    background-color: rgb(31, 36, 51);
 }
 
 .title {
     font-family: 'Caveat', cursive;
-    margin-top: 35px;
     color: #fff;
     display: flex;
     justify-content: center;
